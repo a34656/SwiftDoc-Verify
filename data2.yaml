@@ -1,0 +1,6 @@
+train: C:/Users/KIIT0001/ocr/ocr_id/samples/new_preprocessed/train/images
+val: C:/Users/KIIT0001/ocr/ocr_id/samples/new_preprocessed/valid/images
+test: C:/Users/KIIT0001/ocr/ocr_id/samples/new_preprocessed/test/images
+
+nc: 2
+names: ['PIC', 'Satyamav Jayate']

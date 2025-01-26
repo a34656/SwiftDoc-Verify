@@ -1,0 +1,5 @@
+opencv-python
+ultralytics
+streamlit
+google-cloud-vision
+numpy

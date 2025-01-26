@@ -1,0 +1,6 @@
+train: C:/Users/KIIT0001/ocr/ocr_id/samples/new_preprocessed/train2/images
+val: C:/Users/KIIT0001/ocr/ocr_id/samples/new_preprocessed/valid2/images
+test: C:/Users/KIIT0001/ocr/ocr_id/samples/new_preprocessed/test2/images
+
+nc: 4
+names: ['GOV', 'Name', 'DOB', 'Gender']

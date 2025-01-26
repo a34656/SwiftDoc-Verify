@@ -1,0 +1,924 @@
+{
+  "users": [
+    {
+      "id_type": "Aadhaar",
+      "id_number": "123456789012",
+      "name": "Rajesh Kumar",
+      "phone": "9876543210",
+      "gender": "Male",
+      "dob": "1985-03-15",
+      "state": "Maharashtra",
+      "city": "Mumbai"
+    },
+    {
+      "id_type": "Aadhaar", 
+      "id_number": "234567890123",
+      "name": "Priya Sharma",
+      "phone": "8765432109", 
+      "gender": "Female",
+      "dob": "1990-07-22",
+      "state": "Delhi", 
+      "city": "New Delhi"
+    },
+    {
+      "id_type": "Aadhaar",
+      "id_number": "345678901234", 
+      "name": "Amit Patel",
+      "phone": "7654321098",
+      "gender": "Male", 
+      "dob": "1978-11-05",
+      "state": "Gujarat",
+      "city": "Ahmedabad"
+    },
+    {
+      "id_type": "Aadhaar",
+      "id_number": "456789012345",
+      "name": "Sneha Gupta", 
+      "phone": "6543210987",
+      "gender": "Female",
+      "dob": "1992-04-18", 
+      "state": "West Bengal",
+      "city": "Kolkata"
+    },
+    {
+      "id_type": "Aadhaar",
+      "id_number": "567890123456",
+      "name": "Vikram Singh",
+      "phone": "5432109876",
+      "gender": "Male", 
+      "dob": "1980-09-30",
+      "state": "Uttar Pradesh",
+      "city": "Lucknow"
+    },
+    {
+      "id_type": "Aadhaar",
+      "id_number": "678901234567",
+      "name": "Neha Reddy",
+      "phone": "4321098765",
+      "gender": "Female",
+      "dob": "1995-02-14",
+      "state": "Telangana", 
+      "city": "Hyderabad"
+    },
+    {
+      "id_type": "Aadhaar",
+      "id_number": "789012345678",
+      "name": "Sanjay Mehta",
+      "phone": "3210987654",
+      "gender": "Male",
+      "dob": "1983-06-25",
+      "state": "Rajasthan",
+      "city": "Jaipur"
+    },
+    {
+      "id_type": "Aadhaar",
+      "id_number": "890123456789",
+      "name": "Ananya Verma",
+      "phone": "2109876543",
+      "gender": "Female", 
+      "dob": "1988-12-07",
+      "state": "Punjab",
+      "city": "Chandigarh"
+    },
+    {
+      "id_type": "Aadhaar",
+      "id_number": "901234567890",
+      "name": "Rahul Malhotra",
+      "phone": "1098765432",
+      "gender": "Male",
+      "dob": "1975-05-12",
+      "state": "Haryana",
+      "city": "Gurgaon"
+    },
+    {
+      "id_type": "Aadhaar",
+      "id_number": "012345678901",
+      "name": "Divya Krishnamurthy",
+      "phone": "9087654321",
+      "gender": "Female",
+      "dob": "1993-08-03",
+      "state": "Karnataka",
+      "city": "Bangalore"
+    },
+    {
+      "id_type": "Aadhaar",
+      "id_number": "234567890112",
+      "name": "Suresh Babu",
+      "phone": "8976543210",
+      "gender": "Male", 
+      "dob": "1982-01-20",
+      "state": "Kerala",
+      "city": "Kochi"
+    },
+    {
+      "id_type": "Aadhaar",
+      "id_number": "345678901223",
+      "name": "Meera Iyer",
+      "phone": "7865432109",
+      "gender": "Female",
+      "dob": "1987-10-16",
+      "state": "Tamil Nadu",
+      "city": "Chennai"
+    },
+    {
+      "id_type": "Aadhaar", 
+      "id_number": "456789012334",
+      "name": "Arun Nair",
+      "phone": "6754321098",
+      "gender": "Male",
+      "dob": "1979-04-29",
+      "state": "Andhra Pradesh", 
+      "city": "Visakhapatnam"
+    },
+    {
+      "id_type": "Aadhaar",
+      "id_number": "567890123445",
+      "name": "Kavita Desai",
+      "phone": "5643210987",
+      "gender": "Female", 
+      "dob": "1991-07-08",
+      "state": "Goa",
+      "city": "Panaji"
+    },
+    {
+      "id_type": "Aadhaar",
+      "id_number": "678901234556",
+      "name": "Vishal Sharma",
+      "phone": "4532109876",
+      "gender": "Male",
+      "dob": "1977-11-22",
+      "state": "Madhya Pradesh",
+      "city": "Bhopal"
+    },
+    {
+      "id_type": "Aadhaar",
+      "id_number": "789012345667",
+      "name": "Pooja Kumari",
+      "phone": "3421098765",
+      "gender": "Female",
+      "dob": "1994-03-11",
+      "state": "Bihar",
+      "city": "Patna"
+    },
+    {
+      "id_type": "Aadhaar",
+      "id_number": "890123456778",
+      "name": "Arjun Malhotra",
+      "phone": "2310987654",
+      "gender": "Male",
+      "dob": "1981-09-05",
+      "state": "Uttarakhand",
+      "city": "Dehradun"
+    },
+    {
+      "id_type": "Aadhaar",
+      "id_number": "901234567889",
+      "name": "Swati Joshi",
+      "phone": "1209876543",
+      "gender": "Female",
+      "dob": "1989-06-17",
+      "state": "Himachal Pradesh",
+      "city": "Shimla"
+    },
+    {
+      "id_type": "Aadhaar",
+      "id_number": "012345678990",
+      "name": "Rohit Gupta",
+      "phone": "9876541230",
+      "gender": "Male",
+      "dob": "1976-12-01",
+      "state": "Chhattisgarh",
+      "city": "Raipur"
+    },
+    {
+      "id_type": "Aadhaar", 
+      "id_number": "234567890001",
+      "name": "Deepa Kumari",
+      "phone": "8765432100",
+      "gender": "Female", 
+      "dob": "1996-02-09",
+      "state": "Jharkhand",
+      "city": "Ranchi"
+    },
+    {
+      "id_type": "Aadhaar",
+      "id_number": "345678901112",
+      "name": "Manish Pandey",
+      "phone": "7654321090",
+      "gender": "Male",
+      "dob": "1984-05-14",
+      "state": "Odisha",
+      "city": "Bhubaneswar"
+    },
+    {
+      "id_type": "Aadhaar",
+      "id_number": "456789012223",
+      "name": "Isha Malhotra",
+      "phone": "6543210980",
+      "gender": "Female",
+      "dob": "1997-11-30",
+      "state": "Manipur",
+      "city": "Imphal"
+    },
+    {
+      "id_type": "Aadhaar",
+      "id_number": "567890123334",
+      "name": "Karthik Subramanian",
+      "phone": "5432109870",
+      "gender": "Male",
+      "dob": "1986-08-25",
+      "state": "Tamil Nadu",
+      "city": "Coimbatore"
+    },
+    {
+      "id_type": "Aadhaar",
+      "id_number": "678901234445",
+      "name": "Anjali Mishra",
+      "phone": "4321098760",
+      "gender": "Female",
+      "dob": "1993-05-17",
+      "state": "Uttar Pradesh",
+      "city": "Varanasi"
+    },
+    {
+      "id_type": "Aadhaar",
+      "id_number": "789012345556",
+      "name": "Ravi Teja",
+      "phone": "3210987650",
+      "gender": "Male",
+      "dob": "1979-12-03",
+      "state": "Andhra Pradesh",
+      "city": "Vijayawada"
+    },
+    {
+      "id_type": "Aadhaar",
+      "id_number": "890123456667",
+      "name": "Nisha Reddy",
+      "phone": "2109876540",
+      "gender": "Female",
+      "dob": "1991-06-22",
+      "state": "Telangana",
+      "city": "Warangal"
+    },
+    {
+      "id_type": "Aadhaar",
+      "id_number": "901234567778",
+      "name": "Ajay Kumar",
+      "phone": "1098765430",
+      "gender": "Male",
+      "dob": "1982-04-11",
+      "state": "Rajasthan",
+      "city": "Jodhpur"
+    },
+    {
+      "id_type": "Aadhaar",
+      "id_number": "012345678889",
+      "name": "Kritika Singh",
+      "phone": "9087654320",
+      "gender": "Female",
+      "dob": "1988-09-28",
+      "state": "Madhya Pradesh",
+      "city": "Indore"
+    },
+    {
+      "id_type": "Aadhaar",
+      "id_number": "123456789013",
+      "name": "Samir Jain",
+      "phone": "9988776655",
+      "gender": "Male",
+      "dob": "1986-02-14",
+      "state": "Madhya Pradesh",
+      "city": "Jabalpur"
+    },
+    {
+      "id_type": "Aadhaar",
+      "id_number": "234567890124",
+      "name": "Tanvi Deshmukh",
+      "phone": "8877665544",
+      "gender": "Female", 
+      "dob": "1994-11-09",
+      "state": "Maharashtra",
+      "city": "Pune"
+    },
+    {
+      "id_type": "Aadhaar",
+      "id_number": "345678901235",
+      "name": "Gopal Krishnan",
+      "phone": "7766554433",
+      "gender": "Male",
+      "dob": "1979-07-27", 
+      "state": "Kerala",
+      "city": "Thrissur"
+    },
+    {
+      "id_type": "Aadhaar",
+      "id_number": "456789012346",
+      "name": "Aditi Chatterjee",
+      "phone": "6655443322",
+      "gender": "Female",
+      "dob": "1992-05-16",
+      "state": "West Bengal", 
+      "city": "Durgapur"
+    },
+    {
+      "id_type": "Aadhaar",
+      "id_number": "567890123457",
+      "name": "Manoj Yadav",
+      "phone": "5544332211",
+      "gender": "Male", 
+      "dob": "1983-09-03",
+      "state": "Uttar Pradesh",
+      "city": "Agra"
+    },
+    {
+      "id_type": "Aadhaar",
+      "id_number": "678901234568",
+      "name": "Shruti Kulkarni",
+      "phone": "4433221100",
+      "gender": "Female",
+      "dob": "1997-01-22",
+      "state": "Karnataka", 
+      "city": "Mangalore"
+    },
+    {
+      "id_type": "Aadhaar",
+      "id_number": "789012345679",
+      "name": "Rakesh Tiwari",
+      "phone": "3322110099",
+      "gender": "Male",
+      "dob": "1981-06-18",
+      "state": "Bihar",
+      "city": "Bhagalpur"
+    },
+    {
+      "id_type": "Aadhaar",
+      "id_number": "890123456780",
+      "name": "Pallavi Naidu",
+      "phone": "2211009988",
+      "gender": "Female", 
+      "dob": "1989-12-25",
+      "state": "Andhra Pradesh",
+      "city": "Guntur"
+    },
+    {
+      "id_type": "Aadhaar",
+      "id_number": "901234567891",
+      "name": "Nikhil Hegde",
+      "phone": "1100998877",
+      "gender": "Male",
+      "dob": "1977-03-07",
+      "state": "Goa",
+      "city": "Margao"
+    },
+    {
+      "id_type": "Aadhaar",
+      "id_number": "012345678902",
+      "name": "Madhuri Bhosale",
+      "phone": "9900887766",
+      "gender": "Female",
+      "dob": "1995-08-14",
+      "state": "Maharashtra",
+      "city": "Nagpur"
+    },
+    {
+      "id_type": "Aadhaar",
+      "id_number": "234567890113",
+      "name": "Rishi Mohan",
+      "phone": "8811223344",
+      "gender": "Male", 
+      "dob": "1984-10-30",
+      "state": "Punjab",
+      "city": "Ludhiana"
+    },
+    {
+      "id_type": "Aadhaar",
+      "id_number": "345678901224",
+      "name": "Lakshmi Menon",
+      "phone": "7722334455",
+      "gender": "Female",
+      "dob": "1990-04-05",
+      "state": "Tamil Nadu",
+      "city": "Madurai"
+    },
+    {
+      "id_type": "Aadhaar", 
+      "id_number": "456789012335",
+      "name": "Naveen Reddy",
+      "phone": "6633445566",
+      "gender": "Male",
+      "dob": "1986-07-19",
+      "state": "Telangana", 
+      "city": "Nizamabad"
+    },
+    {
+      "id_type": "Aadhaar",
+      "id_number": "567890123446",
+      "name": "Aparna Pillai",
+      "phone": "5544667788",
+      "gender": "Female", 
+      "dob": "1993-11-11",
+      "state": "Kerala",
+      "city": "Kollam"
+    },
+    {
+      "id_type": "Aadhaar",
+      "id_number": "678901234557",
+      "name": "Sandeep Mishra",
+      "phone": "4455667799",
+      "gender": "Male",
+      "dob": "1980-02-28",
+      "state": "Uttarakhand",
+      "city": "Rishikesh"
+    },
+    {
+      "id_type": "Aadhaar",
+      "id_number": "789012345668",
+      "name": "Reshma Rao",
+      "phone": "3366778899",
+      "gender": "Female",
+      "dob": "1988-06-17",
+      "state": "Karnataka",
+      "city": "Hubli"
+    },
+    {
+      "id_type": "Aadhaar",
+      "id_number": "890123456779",
+      "name": "Vikrant Ojha",
+      "phone": "2277889900",
+      "gender": "Male",
+      "dob": "1982-09-22",
+      "state": "Madhya Pradesh",
+      "city": "Gwalior"
+    },
+    {
+      "id_type": "Aadhaar",
+      "id_number": "901234567880",
+      "name": "Shalini Kapoor",
+      "phone": "1188990011",
+      "gender": "Female",
+      "dob": "1996-01-07",
+      "state": "Haryana",
+      "city": "Faridabad"
+    },
+    {
+      "id_type": "Aadhaar",
+      "id_number": "012345678991",
+      "name": "Rajat Banerjee",
+      "phone": "9911223344",
+      "gender": "Male",
+      "dob": "1985-05-13",
+      "state": "West Bengal",
+      "city": "Siliguri"
+    },
+    {
+      "id_type": "Aadhaar", 
+      "id_number": "234567890002",
+      "name": "Garima Singh",
+      "phone": "8822334455",
+      "gender": "Female", 
+      "dob": "1991-10-26",
+      "state": "Uttar Pradesh",
+      "city": "Kanpur"
+    },
+    {
+      "id_type": "Aadhaar",
+      "id_number": "345678901113",
+      "name": "Aniket Patil",
+      "phone": "7733445566",
+      "gender": "Male",
+      "dob": "1979-12-15",
+      "state": "Maharashtra",
+      "city": "Solapur"
+    },
+    {
+      "id_type": "Aadhaar",
+      "id_number": "456789012224",
+      "name": "Kalyani Subramanian",
+      "phone": "6644557788",
+      "gender": "Female",
+      "dob": "1994-03-30",
+      "state": "Tamil Nadu",
+      "city": "Tirunelveli"
+    },
+    {
+      "id_type": "Aadhaar",
+      "id_number": "567890123335",
+      "name": "Prashant Maurya",
+      "phone": "5555666777",
+      "gender": "Male",
+      "dob": "1987-08-09",
+      "state": "Rajasthan",
+      "city": "Ajmer"
+    },
+    {
+      "id_type": "Aadhaar",
+      "id_number": "678901234446",
+      "name": "Sarita Kumari",
+      "phone": "4466778899",
+      "gender": "Female",
+      "dob": "1992-07-05",
+      "state": "Bihar",
+      "city": "Muzaffarpur"
+    },
+    {
+      "id_type": "Aadhaar",
+      "id_number": "789012345557",
+      "name": "Deepak Sharma",
+      "phone": "3377889900",
+      "gender": "Male",
+      "dob": "1983-04-22",
+      "state": "Himachal Pradesh",
+      "city": "Dharamshala"
+    },
+    {
+      "id_type": "Aadhaar",
+      "id_number": "890123456668",
+      "name": "Nandini Desai",
+      "phone": "2288990011",
+      "gender": "Female",
+      "dob": "1990-11-18",
+      "state": "Gujarat",
+      "city": "Surat"
+    },
+    {
+      "id_type": "Aadhaar",
+      "id_number": "901234567779",
+      "name": "Sunil Chaturvedi",
+      "phone": "1199001122",
+      "gender": "Male",
+      "dob": "1981-06-07",
+      "state": "Madhya Pradesh",
+      "city": "Ujjain"
+    },
+    {
+      "id_type": "Aadhaar",
+      "id_number": "012345678880",
+      "name": "Rita Nagpal",
+      "phone": "9900112233",
+      "gender": "Female",
+      "dob": "1995-02-25",
+      "state": "Delhi",
+      "city": "Noida"
+    },
+    {
+      "id_type": "Aadhaar",
+      "id_number": "234567890114",
+      "name": "Varun Khanna",
+      "phone": "8811223355",
+      "gender": "Male",
+      "dob": "1986-09-12",
+      "state": "Punjab",
+      "city": "Amritsar"
+    },
+    {
+      "id_type": "Aadhaar",
+      "id_number": "345678901225",
+      "name": "Ekta Choudhary",
+      "phone": "7722334466",
+      "gender": "Female",
+      "dob": "1989-05-20",
+      "state": "Rajasthan",
+      "city": "Kota"
+    },
+    {
+      "id_type": "Aadhaar",
+      "id_number": "6313 0626 5686",
+      "name": "Rohan Kumar Das",
+      "phone": "9337570784",
+      "gender": "Male",
+      "dob": "2005-07-18",
+      "state": "Odisha",
+      "city": "Bhubaneswar"
+    },
+    {
+      "id_type": "Aadhaar",
+      "id_number": "567890123447",
+      "name": "Kavya Narayan",
+      "phone": "5588774411",
+      "gender": "Female", 
+      "dob": "1993-12-05",
+      "state": "Karnataka",
+      "city": "Mysore"
+    },
+    {
+      "id_type": "Aadhaar",
+      "id_number": "678901234558",
+      "name": "Ankit Yadav",
+      "phone": "4477663300",
+      "gender": "Male",
+      "dob": "1980-08-14",
+      "state": "Uttar Pradesh",
+      "city": "Meerut"
+    },
+    {
+      "id_type": "Aadhaar",
+      "id_number": "789012345669",
+      "name": "Simran Kapoor",
+      "phone": "3366552299",
+      "gender": "Female",
+      "dob": "1991-06-30",
+      "state": "Punjab",
+      "city": "Jalandhar"
+    },
+    {
+      "id_type": "Aadhaar",
+      "id_number": "890123456770",
+      "name": "Kartik Nagarajan",
+      "phone": "2255441188",
+      "gender": "Male",
+      "dob": "1987-01-25",
+      "state": "Tamil Nadu",
+      "city": "Salem"
+    },
+    {
+      "id_type": "Aadhaar",
+      "id_number": "901234567881",
+      "name": "Prerna Sharma",
+      "phone": "1144332277",
+      "gender": "Female",
+      "dob": "1996-09-08",
+      "state": "Haryana",
+      "city": "Karnal"
+    },
+    {
+      "id_type": "Aadhaar",
+      "id_number": "012345678992",
+      "name": "Siddharth Bose",
+      "phone": "9933667711",
+      "gender": "Male",
+      "dob": "1982-05-22",
+      "state": "West Bengal",
+      "city": "Howrah"
+    },
+    {
+      "id_type": "Aadhaar", 
+      "id_number": "234567890003",
+      "name": "Ankita Dubey",
+      "phone": "8822554477",
+      "gender": "Female", 
+      "dob": "1990-10-17",
+      "state": "Madhya Pradesh",
+      "city": "Gwalior"
+    },
+    {
+      "id_type": "Aadhaar",
+      "id_number": "345678901114",
+      "name": "Rajesh Naidu",
+      "phone": "7711336644",
+      "gender": "Male",
+      "dob": "1979-07-03",
+      "state": "Andhra Pradesh",
+      "city": "Tirupati"
+    },
+    {
+      "id_type": "Aadhaar",
+      "id_number": "456789012225",
+      "name": "Divya Unnikrishnan",
+      "phone": "6600995533",
+      "gender": "Female",
+      "dob": "1994-04-12",
+      "state": "Kerala",
+      "city": "Thrissur"
+    },
+    {
+      "id_type": "Aadhaar",
+      "id_number": "567890123336",
+      "name": "Vivek Chaudhary",
+      "phone": "5599884422",
+      "gender": "Male",
+      "dob": "1985-11-29",
+      "state": "Rajasthan",
+      "city": "Bikaner"
+    },
+    {
+      "id_type": "Aadhaar",
+      "id_number": "678901234447",
+      "name": "Smita Patil",
+      "phone": "4488772211",
+      "gender": "Female",
+      "dob": "1992-02-06",
+      "state": "Maharashtra",
+      "city": "Nashik"
+    },
+    {
+      "id_type": "Aadhaar",
+      "id_number": "789012345558",
+      "name": "Mohit Garg",
+      "phone": "3377661100",
+      "gender": "Male",
+      "dob": "1983-06-16",
+      "state": "Delhi",
+      "city": "Ghaziabad"
+    },
+    {
+      "id_type": "Aadhaar",
+      "id_number": "890123456669",
+      "name": "Rashmi Tiwari",
+      "phone": "2266550099",
+      "gender": "Female",
+      "dob": "1989-08-23",
+      "state": "Uttar Pradesh",
+      "city": "Aligarh"
+    },
+    {
+      "id_type": "Aadhaar",
+      "id_number": "901234567770",
+      "name": "Nitin Jain",
+      "phone": "1155449988",
+      "gender": "Male",
+      "dob": "1981-12-07",
+      "state": "Gujarat",
+      "city": "Rajkot"
+    },
+    {
+      "id_type": "Aadhaar",
+      "id_number": "012345678881",
+      "name": "Asha Kumari",
+      "phone": "9944778811",
+      "gender": "Female",
+      "dob": "1995-01-14",
+      "state": "Bihar",
+      "city": "Gaya"
+    },
+    {
+      "id_type": "Aadhaar",
+      "id_number": "234567890115",
+      "name": "Lokesh Reddy",
+      "phone": "8833667722",
+      "gender": "Male",
+      "dob": "1986-10-01",
+      "state": "Telangana",
+      "city": "Karimnagar"
+    },
+    {
+      "id_type": "Aadhaar",
+      "id_number": "345678901226",
+      "name": "Bhavna Mishra",
+      "phone": "7722551144",
+      "gender": "Female",
+      "dob": "1990-07-19",
+      "state": "Uttarakhand",
+      "city": "Haldwani"
+    },
+    {
+      "id_type": "Aadhaar",
+      "id_number": "456789012337",
+      "name": "Amar Singh",
+      "phone": "6611447733",
+      "gender": "Male",
+      "dob": "1980-04-25",
+      "state": "Punjab",
+      "city": "Mohali"
+    },
+    {
+      "id_type": "Aadhaar",
+      "id_number": "567890123448",
+      "name": "Kiran Deshmukh",
+      "phone": "5500336677",
+      "gender": "Female",
+      "dob": "1993-09-12",
+      "state": "Maharashtra",
+      "city": "Aurangabad"
+    },
+    {
+      "id_type": "Aadhaar",
+      "id_number": "678901234559",
+      "name": "Rahul Hegde",
+      "phone": "4499225588",
+      "gender": "Male",
+      "dob": "1984-02-28",
+      "state": "Karnataka",
+      "city": "Belgaum"
+    },
+    {
+      "id_type": "Aadhaar",
+      "id_number": "789012345660",
+      "name": "Meenakshi Iyer",
+      "phone": "3388114477",
+      "gender": "Female",
+      "dob": "1991-05-06",
+      "state": "Tamil Nadu",
+      "city": "Coimbatore"
+    },
+    {
+      "id_type": "Aadhaar",
+      "id_number": "890123456771",
+      "name": "Ashish Tripathi",
+      "phone": "2277003366",
+      "gender": "Male",
+      "dob": "1982-11-13",
+      "state": "Uttar Pradesh",
+      "city": "Gorakhpur"
+    },
+    {
+      "id_type": "Aadhaar",
+      "id_number": "901234567882",
+      "name": "Sunita Kumari",
+      "phone": "1166552244",
+      "gender": "Female",
+      "dob": "1988-03-27",
+      "state": "Jharkhand",
+      "city": "Dhanbad"
+    },
+    {
+      "id_type": "Aadhaar",
+      "id_number": "012345678993",
+      "name": "Prakash Narayanan",
+      "phone": "9955114477",
+      "gender": "Male",
+      "dob": "1979-08-09",
+      "state": "Kerala",
+      "city": "Kannur"
+    },
+    {
+      "id_type": "Aadhaar", 
+      "id_number": "234567890004",
+      "name": "Namrata Ojha",
+      "phone": "8844663322",
+      "gender": "Female", 
+      "dob": "1995-06-21",
+      "state": "Chhattisgarh",
+      "city": "Bilaspur"
+    },
+    {
+      "id_type": "Aadhaar",
+      "id_number": "345678901115",
+      "name": "Vijay Mallya",
+      "phone": "7733552211",
+      "gender": "Male",
+      "dob": "1985-01-16",
+      "state": "Karnataka",
+      "city": "Mangalore"
+    },
+    {
+      "id_type": "Aadhaar",
+      "id_number": "456789012226",
+      "name": "Gitanjali Rao",
+      "phone": "6622441100",
+      "gender": "Female",
+      "dob": "1992-12-03",
+      "state": "Gujarat",
+      "city": "Vadodara"
+    },
+    {
+      "id_type": "Aadhaar",
+      "id_number": "567890123337",
+      "name": "Navneet Singh",
+      "phone": "5511330099",
+      "gender": "Male",
+      "dob": "1981-07-25",
+      "state": "Haryana",
+      "city": "Panipat"
+    },
+    {
+      "id_type": "Aadhaar",
+      "id_number": "678901234448",
+      "name": "Archana Patnaik",
+      "phone": "4400229988",
+      "gender": "Female",
+      "dob": "1990-04-30",
+      "state": "Odisha",
+      "city": "Cuttack"
+    },
+    {
+      "id_type": "Aadhaar",
+      "id_number": "789012345559",
+      "name": "Sanjay Gautam",
+      "phone": "3399118877",
+      "gender": "Male",
+      "dob": "1983-10-12",
+      "state": "Uttar Pradesh",
+      "city": "Bareilly"
+    },
+    {
+      "id_type": "Aadhaar",
+      "id_number": "890123456660",
+      "name": "Jyoti Kumari",
+      "phone": "2288007766",
+      "gender": "Female",
+      "dob": "1994-02-19",
+      "state": "Bihar",
+      "city": "Bhagalpur"
+    },
+    {
+      "id_type": "Aadhaar",
+      "id_number": "901234567771",
+      "name": "Rajiv Malhotra",
+      "phone": "1177336655",
+      "gender": "Male",
+      "dob": "1980-05-08",
+      "state": "Punjab",
+      "city": "Ludhiana"
+    },
+    {
+      "id_type": "Aadhaar",
+      "id_number": "012345678882",
+      "name": "Deepika Padukone",
+      "phone": "9966225544",
+      "gender": "Female",
+      "dob": "1989-01-05",
+      "state": "Karnataka",
+      "city": "Bangalore"
+    }
+  ]
+}

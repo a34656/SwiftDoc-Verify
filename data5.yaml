@@ -1,0 +1,6 @@
+train: C:/Users/KIIT0001/ocr/ocr_id/samples/new_preprocessed/train4/images
+val: C:/Users/KIIT0001/ocr/ocr_id/samples/new_preprocessed/valid4/images
+test: C:/Users/KIIT0001/ocr/ocr_id/samples/new_preprocessed/test4/images
+
+nc: 4
+names: ['DOB', 'Income Logo', 'Name', 'Pan Number']
